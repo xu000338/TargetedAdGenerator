@@ -1,0 +1,52 @@
+SKU,Brand,Name,Department,Tier,Price
+1,Ben & Jerry's,Vanilla Ice Cream,Ice Cream,Premium,6.99
+2,Ben & Jerry's,Chocolate Ice Cream,Ice Cream,Premium,6.99
+3,Ben & Jerry's,Cookie Dough Ice Cream,Ice Cream,Premium,6.99
+4,Haagen-Dazs,Vanilla Ice Cream,Ice Cream,Premium,6.99
+5,Haagen-Dazs,Chocolate Ice Cream,Ice Cream,Premium,6.99
+6,Haagen-Dazs,Caramel Ice Cream,Ice Cream,Premium,6.99
+7,Magnum,Vanilla Ice Cream,Ice Cream,Premium,7.99
+8,Magnum,Caramel Ice Cream,Ice Cream,Premium,7.99
+9,Magnum,Dark Chocolate Ice Cream,Ice Cream,Premium,7.99
+10,Breyers,Vanilla Ice Cream,Ice Cream,Discount,4.99
+11,Breyers,Chocolate Ice Cream,Ice Cream,Discount,4.99
+12,Breyers,Neapolitan Ice Cream,Ice Cream,Discount,4.99
+13,Parlour,Vanilla Ice Cream,Ice Cream,Discount,4.99
+14,Parlour,Chocolate Ice Cream,Ice Cream,Discount,4.99
+15,Parlour,Neapolitan Ice Cream,Ice Cream,Discount,4.99
+16,Balderson,Old Cheddar Cheese,Cheese,Premium,14.99
+17,Balderson,Medium Cheddar Cheese,Cheese,Premium,14.99
+18,Balderson,Marbled Cheddar Cheese,Cheese,Premium,14.99
+19,St. Albert,Cheddar,Cheese,Premium,14.99
+20,St. Albert,Brie,Cheese,Premium,14.99
+21,St. Albert,Cheese Curds,Cheese,Premium,12.99
+22,Black Diamond,Old Cheddar,Cheese,Discount,9.99
+23,Black Diamond,Medium Cheddar,Cheese,Discount,9.99
+24,Black Diamond,Mozzarella,Cheese,Discount,9.99
+25,Saputo,Cheddar,Cheese,Discount,9.99
+26,Saputo,Mozzarella,Cheese,Discount,9.99
+27,Saputo,Brie,Cheese,Discount,9.99
+28,San Daniele,Pepperoni,Deli,Premium,14.99
+29,San Daniele,Salami,Deli,Premium,14.99
+30,San Daniele,Prosciutto,Deli,Premium,14.99
+31,Italian Gourmet,Salami,Deli,Premium,14.99
+32,Italian Gourmet,Prosciutto,Deli,Premium,14.99
+33,Italian Gourmet,Pancetta,Deli,Premium,14.99
+34,Maple Leaf,Salami,Deli,Discount,9.99
+35,Maple Leaf,Pepperoni,Deli,Discount,9.99
+36,Maple Leaf,Black Forest Ham,Deli,Discount,9.99
+37,Schneiders,Bologna,Deli,Discount,9.99
+38,Schneiders,Salami,Deli,Discount,9.99
+38,Schneiders,Ham,Deli,Discount,9.99
+39,Starbucks,Dark Roast,Coffee,Premium,15.99
+40,Starbucks,Medium Roast,Coffee,Premium,15.99
+41,Starbucks,Light Roast,Coffee,Premium,15.99
+42,Kicking Horse,Colombian,Coffee,Premium,18.99
+43,Kicking Horse,Java,Coffee,Premium,18.99
+44,Kicking Horse,Jamaican,Coffee,Premium,18.99
+45,Folgers,Classic Roast,Coffee,Discount,10.99
+46,Folgers,Decaf,Coffee,Discount,10.99
+47,Maxwell House,Rich Blend,Coffee,Discount,9.99
+48,Maxwell House,Light Blend,Coffee,Discount,9.99
+49,Tim Hortons,Classic Blend,Coffee,Discount,8.99
+50,Tim Hortons,Dark Roast,Coffee,Discount,8.99
